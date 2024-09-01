@@ -1,0 +1,9 @@
+.bids-container {
+    border: 2px solid red;
+    padding: 5px;
+    margin: 10px;
+    border-radius: 20px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
